@@ -1,3 +1,8 @@
+#Winter 2025
+| Project | Description | Repository | PDF |
+|---|---|---|---|
+|TBD|TBD|TBD|TBD|
+
 # Winter 2024
 ## Python In The Enterprise
 
