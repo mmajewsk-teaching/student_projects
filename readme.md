@@ -1,7 +1,12 @@
-#Winter 2025
+# Winter 2025
+## AISEC 
+
 | Project | Description | Repository | PDF |
 |---|---|---|---|
-|TBD|TBD|TBD|TBD|
+|Weak to strong|Reacreation of weak to strong study with some specific models|[link](https://github.com/z3r0tru5t/AISECProject)|[pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2025/aisec/Projekt_AISEC.pdf)|
+|Watermark hacking|Study of using and circumventing invisible watermarks with ML|[link](https://github.com/martafigurska/WatermarkHideReveal)|[pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2025/aisec/WatermarkHideReveal.pdf)|
+|Embedding inversion in images|Trying to recreate input from output for CNN|---|[pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2025/aisec/Jaskiewicz_Piwowarczyk_report.pdf)|
+|LLM data extraction|Extracting hashes from trained LLM|[link](https://github.com/michal-stasiak11/LLM_Data_Extraction)|[pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2025/aisec/LLM_Extraction.pdf)| 
 
 # Winter 2024
 ## Python In The Enterprise
