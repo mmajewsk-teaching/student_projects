@@ -1,4 +1,11 @@
 # Winter 2025
+
+## MLA - Machine Learning Advanced
+
+| Project | Description | Repository | PDF |
+|---|---|---|---|
+|Video Feed Anomaly Detection|Analysis and dimentionality reduction of camera feed|[link](https://github.com/martafigurska/VideoFeedAnomaly)|[pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2025/mla/VideoFeedAnomaly___Report.pdf)|
+
 ## AISEC 
 
 | Project | Description | Repository | PDF |
