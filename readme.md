@@ -1,3 +1,17 @@
+# Summer 2026
+
+Some suggested projects ideas:
+
+| Project | Description | Subject | 
+|---|---|---|
+|Watermark Hacking C.D|Continuing watermak project from Winter 2025 | MLA, DLWC_AA |
+|Weak to strong C.D|Continuing watermak project from Winter 2025 | MLA, DLWC_AA |
+|Real World Face recognition attack|Research existing attacks and methods, try to train or get attack, apply it to real world face, do extensive tests with different environments and different people, analyze data. | MLA |
+|Real World adversarial patches for silhouette/person recognition|Similliar to adversarial sweater, try to recreate the research and its effectivness in real world. Make real world photos and videos, analzye the data.| MLA |
+|DeCCP - weak to strong steering to disabling CCP propaganda| As the title states https://huggingface.co/datasets/augmxnt/deccp| MLA |
+|Things registry|Using images for storing information about object placement, take a photo, assign it to a physical location (desk, closet, etc), recognise object and store its vector, then you can ask via image where this thing belongs to| DLWC, DLWC_AA |
+
+
 # Winter 2025
 
 ## MLA - Machine Learning Advanced
