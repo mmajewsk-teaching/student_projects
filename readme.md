@@ -2,7 +2,7 @@
 
 Some suggested projects ideas:
 
-| Project | Description | Subject | Reserved |
+| Project | Description | Subject | Reserved* |
 |---|---|---|---|
 |Watermark Hacking C.D|Continuing watermak project from Winter 2025 | AISEC, DLWC_AA |🟩|
 |Weak to strong C.D|Continuing watermak project from Winter 2025 | AISEC, DLWC_AA |🟩|
@@ -12,6 +12,9 @@ Some suggested projects ideas:
 |Real World adversarial patches for silhouette/person recognition|Similliar to adversarial sweater, try to recreate the research and its effectivness in real world. Make real world photos and videos, analzye the data.| AISEC |🟩|
 |DeCCP - weak to strong steering to disabling CCP propaganda| As the title states https://huggingface.co/datasets/augmxnt/deccp| AISEC |🟩|
 |Things registry|Using images for storing information about object placement, take a photo, assign it to a physical location (desk, closet, etc), recognise object and store its vector, then you can ask via image where this thing belongs to| DLWC, DLWC_AA |🟥|
+
+🟩 - not reserved
+🟥 - reserved
 
 
 # Winter 2025
