@@ -6,7 +6,7 @@ Some suggested projects ideas:
 |---|---|---|---|
 |Watermark Hacking C.D|Continuing watermak project from Winter 2025 | AISEC, DLWC_AA |🟩|
 |Weak to strong C.D|Continuing watermak project from Winter 2025 | AISEC, DLWC_AA |🟩|
-|Real World Face recognition attack|Research existing attacks and methods, try to train or get attack, apply it to real world face, do extensive tests with different environments and different people, analyze data. | AISEC |🟩|
+|Real World Face recognition attack|Research existing attacks and methods, try to train or get attack, apply it to real world face, do extensive tests with different environments and different people, analyze data. | AISEC |🟥|
 |Real World Adversarial Attack|Research existing attacks and methods, try to train or get attack, apply it to real world (print it, show on screen and take photo) do extensive tests with different environments and different people, analyze data. | AISEC |🟩|
 |Recreating real world adversarial objects| Recreating [this study](https://arxiv.org/abs/1707.07397) - doesnt need full recreation | AISEC, DLWC_AA |🟩|
 |Real World adversarial patches for silhouette/person recognition|Similliar to adversarial sweater, try to recreate the research and its effectivness in real world. Make real world photos and videos, analzye the data.| AISEC |🟩|
