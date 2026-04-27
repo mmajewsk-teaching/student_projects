@@ -10,8 +10,9 @@ Some suggested projects ideas:
 |Real World Adversarial Attack|Research existing attacks and methods of silluhette recognition, try to train or get attack, apply it to real world (print it, show on screen and take photo) do extensive tests with different environments and different people, analyze data. | AISEC |🟥|
 |Recreating real world adversarial objects| Recreating [this study](https://arxiv.org/abs/1707.07397) - doesnt need full recreation | AISEC, DLWC_AA |🟩|
 |Real World adversarial patches for silhouette/person recognition|Similliar to adversarial sweater, try to recreate the research and its effectivness in real world. Make real world photos and videos, analzye the data.| AISEC |🟩|
-|DeCCP - weak to strong steering to disabling CCP propaganda| As the title states https://huggingface.co/datasets/augmxnt/deccp| AISEC |🟩|
+|DeCCP - weak to strong steering to disabling CCP propaganda| As the title states https://huggingface.co/datasets/augmxnt/deccp| AISEC |🟥|
 |Things registry|Using images for storing information about object placement, take a photo, assign it to a physical location (desk, closet, etc), recognise object and store its vector, then you can ask via image where this thing belongs to| DLWC, DLWC_AA |🟥|
+|Microcosm recognition| TBD | DLWC, DLWC_AA |🟩|
 
 🟩 - not reserved
 🟥 - reserved
