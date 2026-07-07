@@ -17,11 +17,11 @@
 |---|---|---|---|
 |Project Report: Sentiment Analysis and Text Generation via Fine-Tuned Language Models| --- | [link](https://github.com/Man1ek27/SentimentAnalysisCUDA) | [pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2026/cuda_report.pdf) and [*supplementary](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2026/WS_deccp_report.pdf) | 
 
-## DLWC AA 
+## DLWC AA - Deep Learning with Cuda Advanced Applications
 
 | Project | Description | Repository | PDF |
 |---|---|---|---|
-| Answering Lord of the Rings Trivia with Large Language Models | Three Approaches: Zero-Shot, Fine-Tuned Prediction, and Synthetic-Data Training | [link](https://github.com/Mikslo/RAGvsFinetune) | [pdf]() |
+| Answering Lord of the Rings Trivia with Large Language Models | Three Approaches: Zero-Shot, Fine-Tuned Prediction, and Synthetic-Data Training | [link](https://github.com/Mikslo/RAGvsFinetune) | [pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2026/group2_project_report_final.pdf) |
 
 
 # Winter 2025
