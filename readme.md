@@ -17,6 +17,16 @@ Some suggested projects ideas:
 🟩 - not reserved
 🟥 - reserved
 
+## BASIC AISEC
+
+| Project | Description | Repository | PDF |
+|---|---|---|---|
+|Traffic sign recognition adversarial attacks|A study of adversarial patch attacks on traffic signs|[link](https://github.com/mshupliakou/traffic-sign-recognition-adv-attacks)|TBD|
+|Real World Face Recognition Attacks Testing, Evaluating and Comparison |Tests of various face recognition attacks| [link](https://github.com/Przemekbukala/Face_recognition_attacks) |TBD|
+|Agentic Indirect Prompt Injection Probe for garak| The contibution of another benchmark to garak | [link](https://github.com/mmajewsk-teaching/garak/pull/1) | TBD |
+| Weak-to-Strong Steering for De-Chinese Communist Party (DeCCP) Propaganda Mitigation | Trying to De-propaganda the chineese models using weak-to-strong technique | [link](https://github.com/marcin-o/deccp-weak-to-strong) | TBD |
+| Recreating real world adversarial objects | More code-oriented project to recreate the adversarial sweater study | [link](https://github.com/mmajewsk-teaching/adversarial_cloaking) | TBD |
+| Adversarial 3D objects | More code-oriented project t orecreate the adversarial tortoise-example | [link](https://github.com/Tospros/AI-Sec-Team6) | TBD |
 
 # Winter 2025
 
