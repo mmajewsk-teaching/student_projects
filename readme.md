@@ -17,7 +17,7 @@ Some suggested projects ideas:
 🟩 - not reserved
 🟥 - reserved
 
-## BASIC AISEC
+## Basic AI Security
 
 | Project | Description | Repository | PDF |
 |---|---|---|---|
@@ -27,6 +27,11 @@ Some suggested projects ideas:
 | Weak-to-Strong Steering for De-Chinese Communist Party (DeCCP) Propaganda Mitigation | Trying to De-propaganda the chineese models using weak-to-strong technique | [link](https://github.com/marcin-o/deccp-weak-to-strong) | TBD |
 | Recreating real world adversarial objects | More code-oriented project to recreate the adversarial sweater study | [link](https://github.com/mmajewsk-teaching/adversarial_cloaking) | TBD |
 | Adversarial 3D objects | More code-oriented project t orecreate the adversarial tortoise-example | [link](https://github.com/Tospros/AI-Sec-Team6) | TBD |
+
+| Project | Description | Repository | PDF |
+|---|---|---|---|
+|Project Report: Sentiment Analysis and Text Generation via Fine-Tuned Language Models| --- | [link](https://github.com/Man1ek27/SentimentAnalysisCUDA) | [pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2026/cuda_report.pdf) [*supplementary](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2026/WS_deccp_report.pdf) | 
+
 
 # Winter 2025
 
