@@ -1,23 +1,6 @@
 # Summer 2026
 
-Some suggested projects ideas:
-
-| Project | Description | Subject | Reserved* |
-|---|---|---|---|
-|Watermark Hacking C.D|Continuing watermak project from Winter 2025 | AISEC, DLWC_AA |🟩|
-|Weak to strong C.D|Continuing watermak project from Winter 2025 | AISEC, DLWC_AA |🟩|
-|Real World Face recognition attack|Research existing attacks and methods, try to train or get attack, apply it to real world face, do extensive tests with different environments and different people, analyze data. | AISEC |🟥|
-|Real World Adversarial Attack|Research existing attacks and methods of silluhette recognition, try to train or get attack, apply it to real world (print it, show on screen and take photo) do extensive tests with different environments and different people, analyze data. | AISEC |🟥|
-|Recreating real world adversarial objects| Recreating [this study](https://arxiv.org/abs/1707.07397) - doesnt need full recreation | AISEC, DLWC_AA |🟩|
-|Real World adversarial patches for silhouette/person recognition|Similliar to adversarial sweater, try to recreate the research and its effectivness in real world. Make real world photos and videos, analzye the data.| AISEC |🟩|
-|DeCCP - weak to strong steering to disabling CCP propaganda| As the title states https://huggingface.co/datasets/augmxnt/deccp| AISEC |🟥|
-|Things registry|Using images for storing information about object placement, take a photo, assign it to a physical location (desk, closet, etc), recognise object and store its vector, then you can ask via image where this thing belongs to| DLWC, DLWC_AA |🟥|
-|Microcosm recognition| TBD | DLWC, DLWC_AA |🟩|
-
-🟩 - not reserved
-🟥 - reserved
-
-## Basic AI Security
+## AISEC - Basic AI Security
 
 | Project | Description | Repository | PDF |
 |---|---|---|---|
@@ -27,6 +10,8 @@ Some suggested projects ideas:
 | Weak-to-Strong Steering for De-Chinese Communist Party (DeCCP) Propaganda Mitigation | Trying to De-propaganda the chineese models using weak-to-strong technique | [link](https://github.com/marcin-o/deccp-weak-to-strong) | [pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2026/Weak_to_strong_for_DECCP.pdf) |
 | Recreating real world adversarial objects | More code-oriented project to recreate the adversarial sweater study | [link](https://github.com/mmajewsk-teaching/adversarial_cloaking) | [pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2026/Adversarial_cloak_raport.pdf) |
 | Adversarial 3D objects | More code-oriented project t orecreate the adversarial tortoise-example | [link](https://github.com/Tospros/AI-Sec-Team6) | [pdf](https://github.com/mmajewsk-teaching/student_projects/blob/main/reports/2026/report.pdf) |
+
+## DLWC - Deep Learning with Cuda
 
 | Project | Description | Repository | PDF |
 |---|---|---|---|
